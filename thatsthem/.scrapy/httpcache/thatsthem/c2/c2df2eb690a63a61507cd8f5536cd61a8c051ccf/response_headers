@@ -1,0 +1,13 @@
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 23 Oct 2023 16:08:52 GMT
+Server: Apache/2.4.29 (Ubuntu)
+Set-Cookie: PHPSESSID=6XOs4LQNKl8wVhNM1Cfpawp68sHX1b4jhVQBt4F1qjQHCTiC; path=/; secure; HttpOnly; SameSite=Strict
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: max-age=604800
+Pragma: no-cache
+Content-Security-Policy: frame-ancestors 'none';
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 a55b01c70de7030e854498094ee5433e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: BLR50-P3
+X-Amz-Cf-Id: iKNWV8hWXwXpo3pfcy4CsLqTkUDeCssIgICeDL-KP1DzvLi65_J2UQ==
